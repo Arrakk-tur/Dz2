@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Fibonache {
     public static void main(String[] args)  {
 
-        System.out.println("Введите количество чисел Фибоначе.");
+        System.out.println("Введите количество чисел Фибоначе."); // ;lasgj ;dlafgkjd;flsgkj ;ldksfj g
         int n = 0;
         try {
             n = reader(); // n is number of numbers
